@@ -1,0 +1,15 @@
+Original Complaint (urdu): 
+
+Generated Complaint (Urdu):
+
+Please provide me with the missing details:
+
+* **Sender Address:**  (e.g., 123 Main Street, City, Province/State, Postal Code)
+* **Sender Phone:** (e.g., +1-555-123-4567)
+* **Sender Email:** (e.g., abdul.rehman@email.com)
+* **Recipient Name:** (e.g., The Manager, Customer Service)
+* **Recipient Address:** (e.g., Company Name, 456 Oak Avenue, City, Province/State, Postal Code)
+* **Complaint:** (Please describe the issue clearly and concisely.  Include details like what happened, when it happened, what you expected, and what you want as a resolution.)
+
+
+Once you provide this information, I will write the formal complaint letter in Urdu for you.
